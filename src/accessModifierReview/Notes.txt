@@ -1,0 +1,5 @@
+Access Modifiers:
+        public:lets you reach from everywhere
+        public:lets you reach from everywhere if there is inheritance
+
+
